@@ -131,7 +131,6 @@ jobs:
 
   security:
     permissions:
-      id-token: read
       contents: read
       packages: read
     runs-on: ubuntu-latest
